@@ -6,7 +6,24 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+h2{
+  text-align: center;
+  color: white !important;
+}
+html{
+  background-color: black;
+}
+form{
+  background-color: black;
+}
+div{
+  background-color: black;
+}
+button.btn.btn-primary {
+  background-color: #2dc997;
+  border: none;
+  color: black;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
